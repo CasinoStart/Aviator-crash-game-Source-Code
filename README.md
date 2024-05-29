@@ -1,7 +1,3 @@
----
-# BuyCasinoScripts
-Awesome casino scripts and source codes. Keywords: 'casino scripts', 'casino source codes', 'crypto casino'.
----
 
 ## Overview
 BuyCasinoScripts.com is the ultimate destination for casino entrepreneurs looking to create their own online casino platform. We offer a diverse range of premade casino source codes, enabling you to launch your own casino without needing any prior coding experience. Our vault includes scripts for top games like Aviator Crash!
