@@ -1,5 +1,5 @@
 
-<img src="[https://buycasinoscripts.com/wp-content/uploads/2024/03/Frame-588-1024x127.png]" alt="BuyCasinoScripts Logo" style="width:200px;height:200px;">
+<img src="[https://buycasinoscripts.com/wp-content/uploads/2024/03/Frame-588-1024x127.png]" alt="BuyCasinoScripts Logo">
 
 
 ## Overview
