@@ -1,7 +1,10 @@
 
 ![Frame-588-1024x127](https://github.com/CasinoStart/Aviator-crash-game-Source-Code/assets/171161701/48a5ba1f-8ce0-455c-9ea6-8758fff463dd)
 
-![images (1)](https://github.com/CasinoStart/Aviator-crash-game-Source-Code/assets/171161701/9dafe38c-9e44-4c8a-94c3-83224858d93d)
+![image-39](https://github.com/CasinoStart/Aviator-crash-game-Source-Code/assets/171161701/05a2499c-3b8e-4b50-be35-dde1f3f3fcb7)
+
+![aviator_crash_game_start_screen](https://github.com/CasinoStart/Aviator-crash-game-Source-Code/assets/171161701/ff8ccf9b-c8ab-461e-9af3-c487b74a4d6c)
+
 
 
 ## Overview
