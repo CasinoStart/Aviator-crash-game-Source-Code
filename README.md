@@ -8,7 +8,7 @@
 
 
 ## Overview
-BuyCasinoScripts.com is the ultimate destination for casino entrepreneurs looking to create their own online casino platform. We offer a diverse range of premade casino source codes, enabling you to launch your own casino without needing any prior coding experience. Our vault includes scripts for top games like Aviator Crash!
+[Casino Scripts](https://casinoscripts.shop/) is the ultimate destination for casino entrepreneurs looking to create their own online casino platform. We offer a diverse range of premade casino source codes, enabling you to launch your own casino without needing any prior coding experience. Our vault includes scripts for top games like Aviator Crash!
 
 ## Key Features
 * Pre-developed casino source code
@@ -27,6 +27,6 @@ Browse our extensive collection today and find the perfect casino script for you
 ## Aviator Crash Game
 Searching for specific casino scripts? Jewel in our crown is the Aviator Crash game script. This thrilling and popular game comes packed with an engaging video animation and a simple betting interface to keep players hooked. Explore our Aviator Crash section to secure the perfect game for your casino platform.
 
-### Experience the thrill and profit from your own online casino platform with BuyCasinoScripts!
-Ready to become a casino mogul? Visit BuyCasinoScripts.com now!
+### Experience the thrill and profit from your own online casino platform with [Casino Scripts](https://casinoscripts.shop/)!
+Ready to become a casino mogul? Visit [Casino scripts](https://casinoscripts.shop/) now!
 ```▍
